@@ -1,9 +1,0 @@
-[submodule "vendor/fmt"]
-	path = vendor/fmt
-	url = https://github.com/fmtlib/fmt
-[submodule "vendor/tinyobjloader"]
-	path = vendor/tinyobjloader
-	url = https://github.com/tinyobjloader/tinyobjloader
-[submodule "vendor/glm"]
-	path = vendor/glm
-	url = https://github.com/g-truc/glm
